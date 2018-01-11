@@ -13,7 +13,10 @@ body {
 		font-weight: 300;
     overflow-x: hidden;
 }
-
+vr { 
+    border-left: 2px solid #999999;
+    height: 100%;
+}
 
 /*---------------------------------------
     Typorgraphy              
@@ -151,7 +154,7 @@ a:hover, a:active, a:focus {
 }
 
 .sk-spinner-wordpress.sk-spinner {
-  background-color: #bfba55;
+  background-color: #000000;
   width: 40px;
   height: 40px;
   border-radius: 40px;
